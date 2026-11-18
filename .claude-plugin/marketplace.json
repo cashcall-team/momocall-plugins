@@ -1,0 +1,15 @@
+{
+  "name": "momocall-plugins",
+  "owner": { "name": "Momocall" },
+  "metadata": {
+    "description": "모모콜 통화 데이터를 AI 에이전트에서 쓰기 위한 공식 플러그인 모음"
+  },
+  "plugins": [
+    {
+      "name": "momocall",
+      "source": "./plugins/momocall",
+      "description": "모모콜 통화 데이터로 놓친 약속 찾기·고객 통화 준비·CRM 연동 구축·문자 보내기 (원격 MCP + 스킬 4종)",
+      "license": "Apache-2.0"
+    }
+  ]
+}

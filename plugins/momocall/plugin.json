@@ -1,0 +1,19 @@
+{
+  "$schema": "https://agent-plugins.org/schemas/1.0.0/plugin.schema.json",
+  "name": "momocall",
+  "version": "1.0.0",
+  "description": "모모콜 통화기록·요약·일정을 읽어 놓친 약속 찾기, 고객 통화 준비, CRM 연동 구축, 다시 연락할 사람에게 문자 보내기를 돕는다. 데이터는 모모콜 원격 MCP 서버에서만 읽고, 문자는 사용자가 허용하고 확인한 경우에만 사용자 휴대폰으로 보낸다.",
+  "author": {
+    "name": "Momocall"
+  },
+  "homepage": "https://momocall.kr",
+  "privacyPolicyUrl": "https://momocall.kr/policies/privacy",
+  "license": "Apache-2.0",
+  "keywords": [
+    "momocall",
+    "call",
+    "crm",
+    "mcp"
+  ],
+  "repository": "https://github.com/cashcall-team/momocall-plugins"
+}
